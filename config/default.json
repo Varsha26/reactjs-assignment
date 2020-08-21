@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Varsha_Rani:Info@260395@devconnnector.vxvrp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"49a27de12275fa0600d7",
+    "githubSecret":"e6b4600faa35ae3eb443ff121ea05f718647f77a"
+}

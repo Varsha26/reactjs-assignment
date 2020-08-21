@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+.background{
+  background-image: url("./bg.jpg");
+}
+.loginContainer {
+  background-color: #D10707;
+  margin-top: 40px;
+  margin-bottom: 300px;
+  text-align: left;
+  color: white;
+  margin-left: 25%;
+}
+.dashBoardContainer {
+  background-color: #D10707;
+  margin-top: 40px;
+  text-align: left;
+  color: white;
+}
+.navItem {
+  background-color: #F2F2F2;
+  margin-top: 10px;
+  margin-bottom: 300px;
+  text-align: left;
+  color: black;
+  margin-bottom: 300px;
+}
+.loginbutton{
+  background-color: #E6B50E;
+  color: white;
+  text-align: center;
+}
+.text-rigt{
+  text-align: right;
+}
+.pl {
+  padding-left: 0px;
+}
+.ml{
+  margin-left: 0px;
+}
+.margin-bottom{
+  margin-bottom: 30px;
+}
+.margin40{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.bold{
+  font-weight: bold;;
+}
+.form-control{
+  color: black;
+  width: 50%;
+}
+.Nav__link{
+  color: black;
+  font-size: 35px;
+}
+.sideContent {
+  margin-top: 13%;
+  padding: 0px;
+}
+.teams {
+  background-color: #F2F2F2;
+  text-align: left;
+  color: black;
+}
+.hr {
+  border-top: 1 px solid black;
+}
+.teamsList{
+  list-style: none;
+  padding-left: 0px;
+}
+.teamsIteams {
+  padding-bottom: 10px;
+}
